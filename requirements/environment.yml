@@ -13,6 +13,6 @@ dependencies:
     - glob
     - PIL
     - matplotlib==3.10.0
-    - sklearn
+    - scikit-learn
     - torch==2.6.0+cu124
     - torchvision==0.21.0+cu124
