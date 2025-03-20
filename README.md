@@ -39,6 +39,7 @@ Before running the demo, ensure you have the following:
   - `DEMO_ConvVAE.ipynb`
   - `breast_cancer_dataset.py`
   - `environment.yml`
+  - `instructions.md`
 
 ### Recommended System Setup
 
