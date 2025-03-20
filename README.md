@@ -25,31 +25,8 @@ We use the **Breast Histopathology Images** dataset from Kaggle, which includes:
 🔗 Dataset Link: [Kaggle: Breast Histopathology Images](https://www.kaggle.com/datasets/paultimothymooney/breast-histopathology-images/data)
 
 ## 🔍 Demo
-### 1️⃣ Clone Repository
-```bash
-git clone https://github.com/yourusername/cancer-anomaly-detection.git
-cd cancer-anomaly-detection
-```
-
-### 2️⃣ Install Dependencies
-```bash
-pip install -r requirements.txt
-```
-
-### 3️⃣ Train the Model
-```bash
-python train.py --epochs 50 --batch_size 64
-```
-
-### 4️⃣ Evaluate the Model
-```bash
-python evaluate.py --model_path saved_model.pth
-```
-
-### 5️⃣ Run Demo (Inference)
-```bash
-python demo.py --input sample_image.jpg
-```
+1. Download the `demo` folder.
+2. Open and run `DEMO_ConvVAE.ipynb` Jupyter Notebook. 
 
 ## 📝 Results
 ### Model Performance Summary
