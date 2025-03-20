@@ -46,7 +46,7 @@ We use the **Breast Histopathology Images** dataset from Kaggle, which includes:
 
 ## 📜 Report
 For an in-depth discussion of our methodology, experiments, and findings, check out our **full report**:
-📄 [Project Report (PDF)](link_to_report.pdf)
+📄 [Project Report (PDF)](https://github.com/dssikdar/PathologyCVAE/blob/main/CS175_Final_Project_Report.pdf)
 
 ## 📁 Repository Structure
 ```
