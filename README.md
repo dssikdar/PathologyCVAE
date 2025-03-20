@@ -65,8 +65,8 @@ conda install -c conda-forge notebook
 
 1. **Extract the ZIP file** and navigate to the extracted folder:
    ```bash
-   unzip project_demo.zip -d project_demo
-   cd project_demo
+   unzip run_demo.zip -d run_demo
+   cd run_demo
 2. Start Jupyter Notebook:
    ```bash
    jupyter notebook
