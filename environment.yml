@@ -1,0 +1,18 @@
+name: colab_env
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10  # Adjust based on your Colab version
+  - pip
+  - pip:
+    - os
+    - kaggle==1.6.17
+    - random
+    - zipfile
+    - glob
+    - PIL
+    - matplotlib==3.10.0
+    - sklearn
+    - torch==2.6.0+cu124
+    - torchvision==0.21.0+cu124
