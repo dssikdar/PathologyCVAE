@@ -34,7 +34,7 @@ Before running the demo, ensure you have the following:
 
 - **Python 3.9+** installed
 - **Jupyter Notebook** installed (`pip install notebook`)
-- **Dataset & Utility Files:** Extract the provided zip file. You should see the following files in the same directory:
+- **Dataset & Utility Files:** Extract the provided zip file. Make sure you see the following files in the same directory:
   - `BreastHistopathology_Small.zip` 
   - `DEMO_ConvVAE.ipynb`
   - `breast_cancer_dataset.py`
@@ -75,7 +75,7 @@ conda install -c conda-forge notebook
 5. Run the first cell in the notebook to install all required dependencies.
 6. Then run all remaining cells sequentially.
 
----
+
 
 ## 📝 Results
 ### Model Performance Summary
