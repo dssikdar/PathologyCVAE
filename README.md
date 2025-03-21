@@ -102,10 +102,10 @@ For an in-depth discussion of our methodology, experiments, and findings, check 
 ```
 📂 PathologyCVAE
  ├── 📂 demo
- ├── 📂 models
- ├── 📂 poster
+ ├── 📂 report
  ├── 📂 requirements
- ├── 📜 .DS_Store
+ ├── 📂 src
+ ├── 📜 .gitignore
  ├── 📜 LICENSE
  └── 📜 README.md
 ```
