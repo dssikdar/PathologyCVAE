@@ -3,9 +3,9 @@
 # Anomaly Detection in Breast Histopathology Images with Convolutional Variational Autoencoders
 
 ## 📌 Overview
-We explore the use of **Convolutional Variational Autoencoders (ConvVAE)** for anomaly detection in breast histopathological images. Our study compares ConvVAEs against Fully Connected VAEs (FC-VAEs) and attention-based architectures for distinguishing cancerous and non-cancerous tissue samples. The implemented models include:
+We explore the use of **Convolutional Variational Autoencoders (ConvVAE)** for anomaly detection in breast histopathological images. Our study compares ConvVAEs against a Fully Connected VAE (FC-VAE) and attention-based architectures for distinguishing cancerous and non-cancerous tissue samples. The implemented models include:
 
-1. **Baseline Variational Autoencoder (VAE)** – lacks spatial awareness.
+1. **Fully Connected Variational Autoencoder (VAE)** – lacks spatial awareness.
 2. **Vanilla Convolutional VAE (ConvVAE)** – utilizes convolutional layers for feature extraction.
 3. **VAE with a Pre-trained U-Net Encoder (CVAE-U-Net)** – leverages a ResNet-34 encoder for improved representation learning.
 4. **Attention-enhanced ConvVAE (Attn-ConvVAE)** – integrates self-attention mechanisms to enhance feature learning.
